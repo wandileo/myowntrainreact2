@@ -1,2 +1,2 @@
 # myowntrainreact2
-[LINK](https://wandileo.github.io/myowntrainreact2/)
+[LINK](https://wandileo.github.io/myowntrainreact/)
